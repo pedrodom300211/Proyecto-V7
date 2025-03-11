@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos C#\\API REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|d:\\proyectos c#\\api rest\\api rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|solutionrelative:api rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|d:\\proyectos c#\\api rest\\api rest\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|solutionrelative:api rest\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|d:\\proyectos c#\\api rest\\api rest\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|solutionrelative:api rest\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|d:\\proyectos c#\\api rest\\api rest\\scriptdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73EC13-E55D-4F3C-9ABB-4059BC50EA85}|API REST\\API REST.csproj|solutionrelative:api rest\\scriptdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scriptData.cs",
+              "DocumentMoniker": "D:\\Proyectos C#\\API REST\\API REST\\scriptData.cs",
+              "RelativeDocumentMoniker": "API REST\\scriptData.cs",
+              "ToolTip": "D:\\Proyectos C#\\API REST\\API REST\\scriptData.cs",
+              "RelativeToolTip": "API REST\\scriptData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:12:46.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\Proyectos C#\\API REST\\API REST\\RedisService.cs",
+              "RelativeDocumentMoniker": "API REST\\RedisService.cs",
+              "ToolTip": "D:\\Proyectos C#\\API REST\\API REST\\RedisService.cs",
+              "RelativeToolTip": "API REST\\RedisService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:16:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "D:\\Proyectos C#\\API REST\\API REST\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "API REST\\Controllers\\RedisController.cs",
+              "ToolTip": "D:\\Proyectos C#\\API REST\\API REST\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "API REST\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:10:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos C#\\API REST\\API REST\\Program.cs",
+              "RelativeDocumentMoniker": "API REST\\Program.cs",
+              "ToolTip": "D:\\Proyectos C#\\API REST\\API REST\\Program.cs",
+              "RelativeToolTip": "API REST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:59:26.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
